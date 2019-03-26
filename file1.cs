@@ -3,4 +3,4 @@ This is file1
 	changed again
 	ANother change
 	change 5
-	
+	change 6
