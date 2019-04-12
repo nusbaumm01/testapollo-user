@@ -5,3 +5,4 @@ yes
     changed
 	x
 	z
+	decimal
