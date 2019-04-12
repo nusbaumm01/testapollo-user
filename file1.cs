@@ -5,3 +5,4 @@ This is file1
 	change 5
 	change 6
 	This is a local dev change
+	changed
