@@ -6,3 +6,4 @@ yes
 	x
 	z
 	decimal
+	OK
